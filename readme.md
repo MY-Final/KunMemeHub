@@ -12,10 +12,9 @@
 KunMemeHub/
 ├── static/                      # 静态资源（项目logo、Banner等）
 ├── memes/                      # 表情包主目录
-│   ├── original/               # 原始图/截图
-│   ├── remixed/                # 二次创作图（P图等）
+│   ├── 原始图/               # 原始图/截图
 │   ├── gif/                    # 动图表情包
-│   └── with-text/             # 带文字的表情包
+│   └── 文字图/             # 带文字的表情包
 ├── CONTRIBUTING.md             # 贡献指南
 ├── LICENSE                     # 项目许可协议（推荐使用 MIT 或 CC-BY-NC-4.0）
 └── README.md                   # 项目说明文件
