@@ -4,7 +4,9 @@
 
 📌 本项目仅供娱乐、研究与交流使用，**禁止商业用途**。
 
-![封面图](memes/文字图/OIP.jpeg)
+<p align="center">
+  <img src="memes/文字图/OIP.jpeg" alt="封面图" />
+</p>
 
 ---
 
