@@ -4,6 +4,10 @@
 
 📌 本项目仅供娱乐、研究与交流使用，**禁止商业用途**。
 
+<p align="center">
+  <img src="memes/文字图/OIP.jpeg" alt="封面图" />
+</p>
+
 ---
 
 ## 📂 项目结构说明
@@ -16,5 +20,5 @@ KunMemeHub/
 │   ├── gif/                    # 动图表情包
 │   └── 文字图/             # 带文字的表情包
 ├── CONTRIBUTING.md             # 贡献指南
-├── LICENSE                     # 项目许可协议（推荐使用 MIT 或 CC-BY-NC-4.0）
+├── LICENSE                     # 项目许可协议
 └── README.md                   # 项目说明文件
